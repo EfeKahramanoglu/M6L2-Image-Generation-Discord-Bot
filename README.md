@@ -13,7 +13,7 @@ Bu proje, Discord üzerinde çalışan ve kullanıcıdan aldığı metin prompt'
 - `index.html` : Örnek HTML sayfası
 
 ## Örnek:
-![ornek]("")
+![ornek](/ornek.png)
 
 ## Kurulum
 1. Gerekli paketleri yükleyin:
