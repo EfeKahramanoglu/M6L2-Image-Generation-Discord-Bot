@@ -12,7 +12,8 @@ Bu proje, Discord üzerinde çalışan ve kullanıcıdan aldığı metin prompt'
 - `logic.py` : Görsel indirme ve token bilgisi için yardımcı mantık
 - `index.html` : Örnek HTML sayfası
 
-  
+## Örnek:
+![ornek]("")
 
 ## Kurulum
 1. Gerekli paketleri yükleyin:
